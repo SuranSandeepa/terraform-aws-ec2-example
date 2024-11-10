@@ -1,0 +1,13 @@
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore sensitive AWS credentials
+.aws/
+
+# Ignore .terraform directory (created when running terraform init)
+.terraform/
+
+# Ignore editor-specific files
+*.swp
+*.log
