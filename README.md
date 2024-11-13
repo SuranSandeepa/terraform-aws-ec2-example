@@ -91,10 +91,3 @@ Follow these steps to get the project running on your machine:
 
 ---
 
-### Summary of Steps:
-1. **Add `.gitignore`** to exclude sensitive files.
-2. **Commit** and **push** your code to GitHub.
-3. **Write a detailed README** for learners to follow the steps and run the project.
-   
-With these steps, your project will be ready for others to learn from and contribute to!
-
